@@ -2,6 +2,6 @@
 The purpose of this file to test how git rebase works.
 ******************************************************
 
-Git rebase seems interesting to me. Learing is a fun. :P
+Git rebase seems interesting to me. Learning is a fun. :P
 
 
