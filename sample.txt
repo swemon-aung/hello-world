@@ -2,4 +2,4 @@
 The purpose of this file to test how git rebase works.
 ******************************************************
 
-Git rebase seems a bit confusing to me.
+Git rebase seems a bit confusing to me. I am finding out the case that why my commit is lost.
